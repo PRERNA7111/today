@@ -1,0 +1,12 @@
+2019-04-20 14:13:31 INFO  A:13 - info message
+2019-04-20 14:13:31 DEBUG A:14 - debug message
+2019-04-20 14:13:31 WARN  A:15 - warn message
+2019-04-20 14:13:31 ERROR A:16 - error message
+2019-04-20 14:13:31 FATAL A:17 - fatal message
+2019-04-20 14:19:59 INFO  A:13 - info message
+2019-04-20 14:19:59 DEBUG A:14 - debug message
+2019-04-20 14:19:59 WARN  A:15 - warn message
+2019-04-20 14:19:59 ERROR A:16 - error message
+2019-04-20 14:19:59 FATAL A:17 - fatal message
+2019-04-20 14:19:59 INFO  Divisionclass:11 - After division c value is:45
+2019-04-20 14:19:59 FATAL A:30 - Catch block is executed successfully
